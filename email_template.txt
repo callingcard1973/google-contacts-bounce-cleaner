@@ -1,0 +1,8 @@
+Hello {{name}},
+
+This is a test email sent via Gmail API.
+
+Your email address is: {{email}}
+
+Best regards,
+Tudor

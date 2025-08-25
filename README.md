@@ -1,5 +1,7 @@
 # Google Contacts Bounce Cleaner
 
+⚠️ **STATUS: DEVELOPMENT VERSION - NOT YET TESTED** ⚠️
+
 A Python tool to automatically remove bounced/invalid email addresses from your Google Contacts using the Google People API with OAuth2 authentication.
 
 ## Features
