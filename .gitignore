@@ -1,0 +1,32 @@
+# Authentication files
+credentials.json
+token.pickle
+
+# Virtual environment
+google_contacts_venv/
+
+# Email lists
+bounced_emails.txt
+contacts_to_delete.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
